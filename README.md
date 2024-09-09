@@ -3,7 +3,7 @@
 # Project Overview
 - **Dataset**: Utilized ECG-5000
 - **Model Architectures**: Trained Autoencoder with reconstruction loss
-- **Results**: Achieved out-class MSE Of 
+- **Results**: Achieved out-class MSE Of 0.07
 - **Threshold**: Decided Anomaly Threshold based upon 94th Percentile of Reconstruction Error of Normal Samples
 - **Pipeline**: Modelled a pipeline for ECG and its reconstruction plot along with Model's Prediction
 
